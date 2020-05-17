@@ -8,3 +8,4 @@ wj/mvnw.cmd
 wj/*.iml
 wj-vue/node_modules
 .gitignore
+.idea
